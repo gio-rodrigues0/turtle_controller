@@ -86,3 +86,6 @@ def main(args=None):
     rclpy.spin(node)
     rclpy.shutdown()
 ```
+
+Link para a demonstração:
+https://youtu.be/ezqF1xWG8qk
